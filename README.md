@@ -1,10 +1,10 @@
 # 🚀 Responsive Portfolio Website
 
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+https://inayafaizan21.github.io/Portfolio-Website/
 
 ## 🌐 Live Demo
 
-Check out the live version here: [Portfolio Demo](https://your-demo-link.com)
+Check out the live version here: [Portfolio Website](https://inayafaizan21.github.io/Portfolio-Website/)
 
 ## 📄 Description
 
@@ -20,16 +20,4 @@ Perfect for developers, designers, and freelancers who want a modern online pres
 - Contact form with validation
 - Clean and minimalist design
 
-## 🛠️ Installation Instructions
-
-To run this project locally:
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/portfolio-website.git
-
-# Navigate into the project directory
-cd portfolio-website
-
-# Open index.html in your browser
 
