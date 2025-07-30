@@ -1,12 +1,35 @@
-- 👋 Hi, I’m @InayaFaizan21
-- 👀 I’m interested in ...!
-- 🌱 I’m currently learning about wed development...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 🚀 Responsive Portfolio Website
 
-<!---
-InayaFaizan21/InayaFaizan21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+
+## 🌐 Live Demo
+
+Check out the live version here: [Portfolio Demo](https://your-demo-link.com)
+
+## 📄 Description
+
+This is a sleek, responsive personal portfolio website built with HTML, CSS, and JavaScript. It showcases your professional work, skills, and resume, and includes smooth animations, interactive elements, and mobile-friendly design.
+
+Perfect for developers, designers, and freelancers who want a modern online presence.
+
+## ✨ Features
+
+- Responsive layout for mobile, tablet, and desktop
+- Animated navigation menu
+- Interactive project gallery
+- Contact form with validation
+- Clean and minimalist design
+
+## 🛠️ Installation Instructions
+
+To run this project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/portfolio-website.git
+
+# Navigate into the project directory
+cd portfolio-website
+
+# Open index.html in your browser
+
