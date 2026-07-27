@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: YOUR_USERNAME
+          github_user_name: InayaFaizan21
           outputs: |
             dist/github-contribution-grid-snake.svg
 
