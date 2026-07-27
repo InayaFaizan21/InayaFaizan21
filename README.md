@@ -46,9 +46,7 @@ Building beautiful websites, AI tools and creative digital experiences.
 
 ---
 
-## 🔥 GitHub Streak
-
-![](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight)
+<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Visitors&color=blue&style=for-the-badge" />
 
 ---
 
@@ -66,11 +64,11 @@ Building beautiful websites, AI tools and creative digital experiences.
 
 ## 📫 Connect With Me
 
-Portfolio: https://yourwebsite.com
+Portfolio: https://inayafaizan21.github.io/Portfolio-Website/
 
-GitHub: https://github.com/YOUR_GITHUB_USERNAME
+GitHub: https://github.com/InayaFaizan21
 
-LinkedIn: https://linkedin.com/in/yourname
+LinkedIn: https://linkedin.com/in/InayaFaizan_
 
 ---
 
