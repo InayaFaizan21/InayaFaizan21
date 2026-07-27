@@ -1,24 +1,29 @@
-# Inaya Faizan
- # 🚀 Responsive Portfolio Website
+name: Generate Snake
 
-https://inayafaizan21.github.io/Portfolio-Website/
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
 
-## 🌐 Live Demo
+jobs:
+  generate:
+    runs-on: ubuntu-latest
 
-Check out the live version here: [Portfolio Website](https://inayafaizan21.github.io/Portfolio-Website/)
+    permissions:
+      contents: write
 
-## 📄 Description
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: YOUR_USERNAME
+          outputs: |
+            dist/github-contribution-grid-snake.svg
 
-This is a sleek, responsive personal portfolio website built with HTML, CSS, and JavaScript. It showcases your professional work, skills, and resume, and includes smooth animations, interactive elements, and mobile-friendly design.
-
-Perfect for developers, designers, and freelancers who want a modern online presence.
-
-## ✨ Features
-
-- Responsive layout for mobile, tablet, and desktop
-- Animated navigation menu
-- Interactive project gallery
-- Contact form with validation
-- Clean and minimalist design
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
 
